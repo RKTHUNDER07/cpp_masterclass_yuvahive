@@ -5,4 +5,7 @@ int main()
 {
     cout << "Hello World";
     return 0;
+    
 }
+
+//"stdout": "Hello World"
