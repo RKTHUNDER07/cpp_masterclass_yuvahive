@@ -9,3 +9,5 @@ int main()
 
     return 0;
 }
+
+//"stdout": "WARNING!\nThis action cannot be undone.\nProceed carefully."
