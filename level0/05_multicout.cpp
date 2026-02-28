@@ -11,3 +11,5 @@ int main()
 
     return 0;
 }
+
+// "stdout": "This is line 1\nThis is line 2\nThis is line 3\n"
