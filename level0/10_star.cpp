@@ -10,3 +10,5 @@ int main()
 
     return 0;
 }
+
+//"stdout": "*\n**\n***\n****\n"
