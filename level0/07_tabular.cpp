@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Name\tAge\tCity\n";
+    cout << "Ritesh\t19\tRanchi";
+
+    return 0;
+}
