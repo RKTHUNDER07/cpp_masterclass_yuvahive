@@ -6,3 +6,4 @@ int main()
     cout << "I am 19 years old";
     return 0;
 }
+//"stdout": "I am 19 years old"
